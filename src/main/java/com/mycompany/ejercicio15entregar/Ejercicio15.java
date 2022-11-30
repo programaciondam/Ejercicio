@@ -17,7 +17,8 @@ public class Ejercicio15 {
 
         String nombreVendedor = "";
       
-                
+           System.out.println("hola");     
+           
         float promedioVentasVendedor;
         int numeroVentasPequeno = 0, numeroVentasMediano = 0, numeroVentasGrande = 0;
         float totalVentasPequeno = 0, totalVentasMediano = 0, totalVentasGrande = 0;
